@@ -58,6 +58,9 @@ hr {
 header{
     height: 400px;
     text-align: center;
+    background: url('../img/buffaloewood.png') no-repeat center  center fixed;
+    background-position: 0% 0%;
+    color : #3f3d3a;
 }
 
 /*

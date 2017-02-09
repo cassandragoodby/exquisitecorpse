@@ -55,6 +55,11 @@ hr {
     padding: 0;
 }
 
+header{
+    height: 400px;
+    text-align: center;
+}
+
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:

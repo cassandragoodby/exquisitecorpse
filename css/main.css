@@ -16,6 +16,14 @@ html {
     line-height: 1.4;
 }
 
+body{
+    background: url('../img/woodbackground.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301

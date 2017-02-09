@@ -4,10 +4,14 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    <Andy Chuong> -- <>
+    <Cassandra Goodby> -- <>
+    <Shelby Pumphrey> -- <>
+    <Kaylin Shioshita> -- <>
 
 # THANKS
 
-    <name>
+    <David Schaal>
 
 # TECHNOLOGY COLOPHON
 

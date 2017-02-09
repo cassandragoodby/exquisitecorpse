@@ -109,6 +109,9 @@ textarea {
 #container {
     width:70%;
     margin: 0 auto;
+    color:#565A5C;
+    background-color: #CFB87C;
+    padding: 20px;
 }
 
 

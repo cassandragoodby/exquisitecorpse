@@ -124,9 +124,10 @@ textarea {
 #container{
     width:70%;
     margin: 0 auto;
-    color:#565A5C;
+    color:#3f3d3a;
     background-color: #CFB87C;
     padding: 20px;
+    margin-bottom: 50px;
 }
 
 #mainstory{
@@ -134,9 +135,13 @@ textarea {
 }
 
 p{
-
+    font-family:'Source Sans Pro', sans-serif;
 }
 
+
+h1 {
+    font-family: 'Special Elite', cursive;
+}
 
 
 

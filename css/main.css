@@ -147,8 +147,18 @@ h1 {
     display: none;
 }
 
+#music-note {
+    position: fixed;
+    bottom:10px;
+    left: 10px;
+    color:#fff;
+    font-size: 3em;
+}
 
-
+#music-note:hover {
+    opacity: .7;
+    cursor: pointer;
+}
 
 
 

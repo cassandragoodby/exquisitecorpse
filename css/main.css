@@ -58,16 +58,10 @@ hr {
 header{
     height: 400px;
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    background: url('../img/buffaloewood.png') no-repeat center  center fixed;
-=======
-    background: url('../img/buffaloewood.png') no-repeat center center fixed;
->>>>>>> 06ebc69c6069455031705844645a0667b9d979f7
-    background-position: 0% 0%;
+    background: url('../img/buffaloewood.png') no-repeat fixed;
+    background-size: 40%;
+    background-position: center 40%;
     color : #3f3d3a;
->>>>>>> ec6249bcd0f70477610b2d3f9bcd6a239f7baebe
 }
 
 /*
@@ -141,6 +135,14 @@ p{
 
 h1 {
     font-family: 'Special Elite', cursive;
+    font-size: 3em;
+    margin-bottom: 0px;
+}
+
+h2{
+    font-size: 2.5em;
+    font-family: 'Special Elite', cursive;
+    margin-top: 0px;
 }
 
 #music {

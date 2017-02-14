@@ -182,7 +182,7 @@ h2{
     cursor: pointer;
 }
 
-@media all and (max-width: 1083px) {
+@media all and (max-width: 1233px) {
     h1{
         font-size: 3em;
 

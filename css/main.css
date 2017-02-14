@@ -26,6 +26,12 @@ body{
 
 }
 
+img{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301

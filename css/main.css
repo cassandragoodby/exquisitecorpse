@@ -71,7 +71,7 @@ header{
     margin-right:auto;
     text-align: center;
     background: url('../img/buffaloewoodlight.png') no-repeat 50% 50%;
-    background-size: auto 80%;
+    background-size: auto 70%;
     color: #CFB87C;
     background-color: rgba(255,255,255,.5);
     overflow:auto;
@@ -182,7 +182,7 @@ h2{
     cursor: pointer;
 }
 
-@media all and (max-width: 1083px) {
+@media all and (max-width: 1233px) {
     h1{
         font-size: 3em;
 

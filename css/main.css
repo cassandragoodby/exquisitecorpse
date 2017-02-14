@@ -182,6 +182,21 @@ h2{
     cursor: pointer;
 }
 
+@media all and (max-width: 696px) {
+    h1{
+        font-size: 3em;
+
+    }
+    h2{
+        font-size: 2em;
+    }
+    #container{
+        width: 90%;
+    }
+    header{
+        width: 90%;
+    }
+}
 
 
 
